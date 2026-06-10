@@ -97,7 +97,7 @@ def main():
     TARGET_FILE_NAME = "sample_dataset_v01"  # {수정 가능한 대상 파일명}
     INPUT_DIR = "raw_data"                   # {입력 폴더 경로}
     OUTPUT_DIR = "cleaned_data"              # {출력 폴더 경로}
-    TYPO_DICT_FILE = "typo_correction_rules.csv" 
+    TYPO_DICT_FILE = "typos.csv" 
 
     try:
         script_dir = os.path.dirname(os.path.abspath(__file__))
