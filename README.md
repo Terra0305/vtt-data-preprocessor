@@ -35,7 +35,6 @@ OCR로 생성된 자막 파일에는 같은 오류가 반복해서 나타나는 
 .
 ├── All-in-One_nda.Ver.py    # 전처리 스크립트
 ├── typos.csv                # 반복 오탈자 교정 규칙 예시
-├── Command                  # 작업 당시 정리한 요구사항 메모
 └── README.md
 ```
 
